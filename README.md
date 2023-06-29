@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
 
 - 🔭 I’m currently working on a Local community social platform which helps people learn about Geography, Social Events and more of the land.
