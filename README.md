@@ -2,15 +2,14 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
 
-- 🔭 I’m currently working on Python (Django) powered Local community social platform which helps people learn about Geography, Social Events and more of the land.
+- 🔭 I’m currently working on Python (Django) powered Local community social platform.
 - 👯 I’m looking to collaborate on a Music chat website.
 - 👨🏽‍💻[My Portfolio Website](https://gopalmani.netlify.app/)
 - 🖥️:[My Hackerrank Badges and stats](https://www.hackerrank.com/deepakdubeygi)
 - 💻:[My Hackerearth stats](https://www.hackerearth.com/@deep186)
 
 <br>
-- *Languages and Tools
-:*  
+- *Languages and Tools:*  
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/python.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/java.png"></code>
