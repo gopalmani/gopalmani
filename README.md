@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" width="500" height="320" />
 
 
 - 🔭 I’m currently working on a Local community social platform which helps people learn about Geography, Social Events and more of the land.
