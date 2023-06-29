@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
 
-- 🔭 I’m currently working on a Local community social platform which helps people learn about Geography, Social Events and more of the land.
+- 🔭 I’m currently working on Python (Django) powered Local community social platform which helps people learn about Geography, Social Events and more of the land.
 - 👯 I’m looking to collaborate on a Music chat website.
 - 👨🏽‍💻[My Portfolio Website](https://gopalmani.netlify.app/)
 - 🖥️:[My Hackerrank Badges and stats](https://www.hackerrank.com/deepakdubeygi)
