@@ -1,7 +1,6 @@
 ### Hi there 👋
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
-![](https://komarev.com/ghpvc/?username=gopalmani&color=grey)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalmani&label=Profile%20views&color=grey" alt="gopalmani" /> </p>
 - 🔭 I’m currently working on Python (Django) authentication for a poker-app backend.
 - 👯 I’m looking to collaborate on a Music chat website.
 - 👨🏽‍💻[My Portfolio Website](https://gopalmani.netlify.app/)
