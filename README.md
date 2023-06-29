@@ -9,7 +9,8 @@
 - 💻:[My Hackerearth stats](https://www.hackerearth.com/@deep186)
 
 <br>
-- *Languages and Tools:*  
+- *Languages and Tools
+:*  
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/python.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/java.png"></code>
