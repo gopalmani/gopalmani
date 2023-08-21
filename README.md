@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalmani&label=Profile%20views&color=grey" alt="gopalmani" /> </p>
 - 🔭 I’m currently working on Python (Django) authentication for a poker-app backend.
 - 👯 I’m looking to collaborate on a Music chat website.
-- 👨🏽‍💻[My Portfolio Website](https://gopalmani.netlify.app/)
+- 👨🏽‍💻[My Portfolio Website](https://gopalmani.github.io)
 - 🖥️:[My Hackerrank Badges and stats](https://www.hackerrank.com/deepakdubeygi)
 - 💻:[My Hackerearth stats](https://www.hackerearth.com/@deep186)
 
