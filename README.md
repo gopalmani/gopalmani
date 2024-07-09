@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Python (Django) authentication for a poker-app backend.
 - 👯 I’m looking to collaborate on a Music chat website.
 - 👨🏽‍💻[My Portfolio Website](https://gopalmani.github.io)
+- 🖥️:[My Leetcode Badges and stats](https://leetcode.com/u/gopalmanidubey/)
 - 🖥️:[My Hackerrank Badges and stats](https://www.hackerrank.com/deepakdubeygi)
 - 💻:[My Hackerearth stats](https://www.hackerearth.com/@deep186)
 
