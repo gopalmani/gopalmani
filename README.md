@@ -12,9 +12,6 @@
 ### 💼 What I'm Building:
 - 🎮 **PsyPlay** – AI-powered real-time multiplayer gaming platform  
   🧱 *Founding Developer — building scalable infra with Go, FastAPI, Redis, WebSockets, and React*
-- 💼 **The Career Boat** – Your AI-powered career OS for landing high-paying tech roles  
-  📄 Resume builder, job tracker, ATS analyzer, outreach engine, and mock interview assistant
-- 🔐 **Auth Systems** – Production-grade token auth using Firebase, Django, and FastAPI
 
 ---
 
