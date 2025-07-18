@@ -1,5 +1,5 @@
 ### Hey there, I'm Deepak 👋  
-🚀 Backend Engineer | 🎮 Founding Developer @ PsyPlay | 🧠 DSA Explorer | 🧘‍♂️ Conscious Creator  
+🚀 Backend Engineer | 🎮 Founding Developer @ PsyPlay | 🧠 Systems Explorer | 🧘‍♂️ Conscious Creator  
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="300" />
 
@@ -48,7 +48,7 @@
 - You love **AI, system design, or real-time infra**
 - Or just want to co-build something that *actually matters* 🌱
 
-> 📬 DM me on [X](https://x.com) or start a discussion here on GitHub.
+> 📬 DM me on [X](https://x.com/deeep8o) or start a discussion here on GitHub.
 
 ---
 
@@ -58,12 +58,11 @@
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/go.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/react.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/fastapi.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/postgresql.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/postgres.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/redis.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/docker.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/firebase.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/aws.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/tailwind.png"></code>
 
 ---
 
