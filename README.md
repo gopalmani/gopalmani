@@ -1,25 +1,73 @@
-### Hi there 👋
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalmani&label=Profile%20views&color=grey" alt="gopalmani" /> </p>
-- 🔭 I’m currently working on Python (Django) authentication for a poker-app backend.
-- 👯 I’m looking to collaborate on a Music chat website.
-- 👨🏽‍💻[My Portfolio Website](https://gopalmani.github.io)
-- 🖥️:[My Leetcode Badges and stats](https://leetcode.com/u/gopalmanidubey/)
-- 🖥️:[My Hackerrank Badges and stats](https://www.hackerrank.com/deepakdubeygi)
-- 💻:[My Hackerearth stats](https://www.hackerearth.com/@deep186)
+### Hey there, I'm Deepak 👋  
+🚀 Backend Engineer | 🎮 Founding Developer @ PsyPlay | 🧠 DSA Explorer | 🧘‍♂️ Conscious Creator  
 
-<br>
-- *Languages and Tools:*  
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="300" />
 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/python.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/java.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/html.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/css.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/api.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/aws.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/Tensorflow.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/jenkins.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/jira.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/mysql.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files@9fb052facafdce14283d8ce23293dae7cd3e7c03/selenium.png"></code>
-</br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gopalmani&label=Profile%20views&color=grey" alt="gopalmani" />
+</p>
+
+---
+
+### 💼 What I'm Building:
+- 🎮 **PsyPlay** – AI-powered real-time multiplayer gaming platform  
+  🧱 *Founding Developer — building scalable infra with Go, FastAPI, Redis, WebSockets, and React*
+- 💼 **The Career Boat** – Your AI-powered career OS for landing high-paying tech roles  
+  📄 Resume builder, job tracker, ATS analyzer, outreach engine, and mock interview assistant
+- 🔐 **Auth Systems** – Production-grade token auth using Firebase, Django, and FastAPI
+
+---
+
+### 💻 Tech Playground:
+- **Languages:** Python, Go, JavaScript (React/Next.js), TypeScript, SQL  
+- **Frameworks:** FastAPI, Django, Node.js, Tailwind CSS  
+- **Infra & DevOps:** Docker, Nginx, PostgreSQL, Redis, Supabase, Firebase Auth, AWS (EC2, S3)  
+- **Tools:** WebSockets, GitHub Actions, LangGraph, ezdxf, Figma, Stockfish Engine
+
+---
+
+### 🧠 On a Mission To:
+- 🌐 Secure high-impact remote backend roles with a focus on distributed systems and performance
+- 🏗️ Deepen expertise in System Design and Low-Level Architecture for scalable applications
+- 🧪 Solve and document 50+ real-world DSA problems with multiple approaches and test coverage
+- 📦 Build developer-first APIs, production-ready infrastructure, and clean, maintainable systems
+
+---
+
+### 🧪 Check My Proof-of-Work:
+- 🧠 [Portfolio Website](https://gopalmani.github.io)
+- ⚔️ [Leetcode Profile](https://leetcode.com/u/gopalmanidubey/)
+- 🧪 [Hackerrank](https://www.hackerrank.com/deepakdubeygi)
+- 💻 [Hackerearth](https://www.hackerearth.com/@deep186)
+
+---
+
+### 🔍 Let's Collaborate If:
+- You want to **build fast, scale clean**, and deliver real value
+- You’re obsessed with **developer experience + real-world impact**
+- You love **AI, system design, or real-time infra**
+- Or just want to co-build something that *actually matters* 🌱
+
+> 📬 DM me on [X](https://x.com) or start a discussion here on GitHub.
+
+---
+
+### 🛠️ Tools I Love:
+
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/python.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/go.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/react.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/fastapi.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/postgresql.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/redis.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/docker.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/firebase.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/aws.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/tailwind.png"></code>
+
+---
+
+### 🧘 Fun Fact:
+I’m either debugging a game server, solving a DP problem, designing a house in AutoCAD — or training to be the most **jacked nerd with world-class taste** you’ll ever meet.
+
+---
