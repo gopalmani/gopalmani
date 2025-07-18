@@ -64,6 +64,6 @@
 ---
 
 ### 🧘 Fun Fact:
-I’m either debugging a game server, solving a DP problem, designing a house in AutoCAD — or training to be the most **jacked nerd with world-class taste** you’ll ever meet.
+I’m either debugging a game server, solving a DP problem, designing a house in AutoCAD — or training in the gym.
 
 ---
