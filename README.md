@@ -1,5 +1,5 @@
 ### Hey there, I'm Deepak 👋  
-🚀 Backend Engineer | 🎮 Founding Developer @ PsyPlay | 🧠 Systems Explorer | 🧘‍♂️ Conscious Creator  
+SDE2 @ Kredivo Group | 🚀 Backend Engineer | 🎮 Founding Developer @ PsyPlay | 🧠 Systems Explorer | 🧘‍♂️ Conscious Creator  
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="300" />
 
