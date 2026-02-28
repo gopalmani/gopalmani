@@ -1,5 +1,5 @@
 ### Hey there, I'm Deepak 👋  
-SDE2 @ Kredivo Group | 🚀 Backend Engineer | 🎮 Founding Developer @ PsyPlay | 🧠 Systems Explorer | 🧘‍♂️ Conscious Creator  
+SDE2 @ Kredivo Group | 🚀 Software Engineer | 🧠 Systems & Infra Explorer | 🛡️ Defence-Tech Research | 🧘‍♂️ Conscious Builder  
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="300" />
 
@@ -9,47 +9,72 @@ SDE2 @ Kredivo Group | 🚀 Backend Engineer | 🎮 Founding Developer @ PsyPlay
 
 ---
 
-### 💼 What I'm Building:
-- 🎮 **PsyPlay** – AI-powered real-time multiplayer gaming platform  
-  🧱 *Founding Developer — building scalable infra with Go, FastAPI, Redis, WebSockets, and React*
+### 💼 What I'm Building & Researching:
+- 🛡️ **Defence & Strategic Systems Research**  
+  *Studying simulation systems, autonomous decision loops, secure infra, and AI-assisted tactical software (non-classified, research-focused)*
+
+- 🐧 **Autonomous Linux Systems**  
+  *Building self-healing, minimal, container-first Linux environments for long-running infra, game servers, and AI workloads*
+
+- 💬 **GeetaChat (Community Project)**  
+  *An open philosophical + AI-driven discussion platform focused on clarity, discipline, and long-term thinking*
+
+- 🎮 **PsyPlay (Early-Stage)**  
+  *Contributor to real-time multiplayer infra — WebSockets, Redis-backed state, and matchmaking systems*  
 
 ---
 
-### 💻 Tech Playground:
-- **Languages:** Python, Go, JavaScript (React/Next.js), TypeScript, SQL  
-- **Frameworks:** FastAPI, Django, Node.js, Tailwind CSS  
-- **Infra & DevOps:** Docker, Nginx, PostgreSQL, Redis, Supabase, Firebase Auth, AWS (EC2, S3)  
-- **Tools:** WebSockets, GitHub Actions, LangGraph, ezdxf, Figma, Stockfish Engine
+### 💻 Tech Playground (Deep Focus):
+- **Languages:** Go, Python, TypeScript, JavaScript, SQL  
+- **Backend & Systems:**  
+  - FastAPI, Django, Go net/http  
+  - Event-driven architectures, WebSockets (raw, non-Socket.IO)  
+  - Redis (state, pub/sub, locks), PostgreSQL (transactions, consistency)  
+- **Infra & DevOps:**  
+  - Docker, Nginx, Linux internals  
+  - CI/CD via GitHub Actions  
+  - AWS (EC2, S3), Supabase, Firebase Auth  
+- **Distributed Systems Concepts:**  
+  - Matchmaking, leader election (basic), idempotency, soft deletes  
+  - Stateful vs stateless services  
+  - Real-time sync, latency tradeoffs, failure handling  
+- **AI & Tooling:**  
+  - LangGraph, LLM orchestration  
+  - Stockfish Engine integration  
+  - ezdxf (AutoCAD automation), Figma pipelines  
 
 ---
 
-### 🧠 On a Mission To:
-- 🌐 Secure high-impact remote backend roles with a focus on distributed systems and performance
-- 🏗️ Deepen expertise in System Design and Low-Level Architecture for scalable applications
-- 🧪 Solve and document 50+ real-world DSA problems with multiple approaches and test coverage
-- 📦 Build developer-first APIs, production-ready infrastructure, and clean, maintainable systems
+### 🧠 Current Technical Objectives:
+- 🧱 Design **production-grade backend systems** with clean boundaries and predictable behavior
+- ⚙️ Master **low-level system design** (networking, memory, concurrency basics)
+- 🧪 Build & document **50+ real-world DSA problems** with:
+  - brute → optimized → production-ready approaches
+  - test coverage & edge-case reasoning
+- 🐧 Push deeper into **Linux, infra automation, and long-running services**
+- 🛡️ Explore **defence-adjacent software patterns**: simulations, autonomy, and decision systems
 
 ---
 
-### 🧪 Check My Proof-of-Work:
+### 🧪 Proof of Work & Profiles:
 - 🧠 [Portfolio Website](https://gopalmani.github.io)
-- ⚔️ [Leetcode Profile](https://leetcode.com/u/gopalmanidubey/)
-- 🧪 [Hackerrank](https://www.hackerrank.com/deepakdubeygi)
-- 💻 [Hackerearth](https://www.hackerearth.com/@deep186)
+- ⚔️ [LeetCode](https://leetcode.com/u/gopalmanidubey/)
+- 🧪 [HackerRank](https://www.hackerrank.com/deepakdubeygi)
+- 💻 [HackerEarth](https://www.hackerearth.com/@deep186)
 
 ---
 
-### 🔍 Let's Collaborate If:
-- You want to **build fast, scale clean**, and deliver real value
-- You’re obsessed with **developer experience + real-world impact**
-- You love **AI, system design, or real-time infra**
-- Or just want to co-build something that *actually matters* 🌱
+### 🔍 Collaboration Signals:
+- You care about **correctness, performance, and clarity**
+- You prefer **simple systems that scale**, not buzzword architecture
+- You enjoy **deep work, systems thinking, and long-term bets**
+- You want to build things that **actually survive production**
 
-> 📬 DM me on [X](https://x.com/deeep8o) or start a discussion here on GitHub.
+> 📬 DM me on [X](https://x.com/deeep8o) or start a GitHub discussion.
 
 ---
 
-### 🛠️ Tools I Love:
+### 🛠️ Tools I Use Regularly:
 
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/python.png"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/go.png"></code>
@@ -63,7 +88,23 @@ SDE2 @ Kredivo Group | 🚀 Backend Engineer | 🎮 Founding Developer @ PsyPlay
 
 ---
 
-### 🧘 Fun Fact:
-I’m either debugging a game server, solving a DP problem, designing a house in AutoCAD — or training in the gym.
+### 📊 Open Source Activity
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=45264570" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @appleboy" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+---
+
+### 🧘 Beyond Code:
+- Strength training & disciplined routines  
+- AutoCAD-based architectural design  
+- Philosophy, Gita studies, and systems thinking  
+- Long-form focus over short-term dopamine  
 
 ---
