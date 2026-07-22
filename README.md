@@ -4,6 +4,7 @@
 Building backend systems, automation infrastructure, distributed data pipelines, and AI-powered developer tools.
 
 I primarily work with **Go, Python, TypeScript, PostgreSQL, Redis, Docker, Linux, and AWS**.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="300" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gopalmani&label=Profile%20views&color=grey" alt="Profile views for gopalmani" />
