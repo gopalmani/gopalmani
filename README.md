@@ -1,110 +1,243 @@
-### Hey there, I'm Deepak 👋  
-SDE2 @ Kredivo Group | 🚀 Software Engineer | 🧠 Systems & Infra Explorer | 🛡️ Defence-Tech Research | 🧘‍♂️ Conscious Builder  
+# Hey, I'm Deepak 👋
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="300" />
+**Software Engineer at Kredivo Group**
+Building backend systems, automation infrastructure, distributed data pipelines, and AI-powered developer tools.
+
+I primarily work with **Go, Python, TypeScript, PostgreSQL, Redis, Docker, Linux, and AWS**.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gopalmani&label=Profile%20views&color=grey" alt="gopalmani" />
+  <img src="https://komarev.com/ghpvc/?username=gopalmani&label=Profile%20views&color=grey" alt="Profile views for gopalmani" />
 </p>
 
 ---
 
-### 💼 What I'm Building & Researching:
-- 🛡️ **Defence & Strategic Systems Research**  
-  *Studying simulation systems, autonomous decision loops, secure infra, and AI-assisted tactical software (non-classified, research-focused)*
+## 🚀 What I Build
 
-- 🐧 **Autonomous Linux Systems**  
-  *Building self-healing, minimal, container-first Linux environments for long-running infra, game servers, and AI workloads*
-
-- 💬 **GeetaChat (Community Project)**  
-  *An open philosophical + AI-driven discussion platform focused on clarity, discipline, and long-term thinking*
-
-- 🎮 **PsyPlay (Early-Stage)**  
-  *Contributor to real-time multiplayer infra — WebSockets, Redis-backed state, and matchmaking systems*  
+* Reliable backend services with predictable failure handling
+* Concurrent and fault-tolerant data-processing pipelines
+* AI applications with structured outputs and execution guardrails
+* Real-time systems using WebSockets and Redis-backed state
+* Developer tooling, automation infrastructure, and production diagnostics
 
 ---
 
-### 💻 Tech Playground (Deep Focus):
-- **Languages:** Go, Python, TypeScript, JavaScript, SQL  
-- **Backend & Systems:**  
-  - FastAPI, Django, Go net/http  
-  - Event-driven architectures, WebSockets (raw, non-Socket.IO)  
-  - Redis (state, pub/sub, locks), PostgreSQL (transactions, consistency)  
-- **Infra & DevOps:**  
-  - Docker, Nginx, Linux internals  
-  - CI/CD via GitHub Actions  
-  - AWS (EC2, S3), Supabase, Firebase Auth  
-- **Distributed Systems Concepts:**  
-  - Matchmaking, leader election (basic), idempotency, soft deletes  
-  - Stateful vs stateless services  
-  - Real-time sync, latency tradeoffs, failure handling  
-- **AI & Tooling:**  
-  - LangGraph, LLM orchestration  
-  - Stockfish Engine integration  
-  - ezdxf (AutoCAD automation), Figma pipelines  
+## 🧩 Selected Projects
+
+### 🧠 [QueryMindAI](https://github.com/gopalmani/QueryMindAI)
+
+An open-source AI data workspace for querying PostgreSQL databases using natural language.
+
+**Engineering highlights:**
+
+* Bring-your-own read-only PostgreSQL connections
+* Automated schema introspection and relationship discovery
+* Structured LLM outputs with provider fallback
+* Parser-based SQL validation and table allow-lists
+* Read-only query enforcement, row limits, and statement timeouts
+* Explicit separation between SQL generation and user-approved execution
+* Dockerized FastAPI and Next.js deployment
 
 ---
 
-### 🧠 Current Technical Objectives:
-- 🧱 Design **production-grade backend systems** with clean boundaries and predictable behavior
-- ⚙️ Master **low-level system design** (networking, memory, concurrency basics)
-- 🧪 Build & document **50+ real-world DSA problems** with:
-  - brute → optimized → production-ready approaches
-  - test coverage & edge-case reasoning
-- 🐧 Push deeper into **Linux, infra automation, and long-running services**
-- 🛡️ Explore **defence-adjacent software patterns**: simulations, autonomy, and decision systems
+### ⚙️ [Enterprise Synchronization Layer](https://github.com/gopalmani/hospital-bulk-processor)
+
+A fault-tolerant bulk-processing system designed for large enterprise onboarding datasets.
+
+**Engineering highlights:**
+
+* Concurrent and incremental processing pipelines
+* Row-level validation and structured error reporting
+* Idempotent processing and automated retries
+* Progress tracking and resumable execution
+* Rollback handling for permanent failures
+* Deterministic tests and CI quality checks
+* Dockerized local development and cloud deployment
 
 ---
 
-### 🧪 Proof of Work & Profiles:
-- 🧠 [Portfolio Website](https://gopalmani.github.io)
-- ⚔️ [LeetCode](https://leetcode.com/u/gopalmanidubey/)
-- 🧪 [HackerRank](https://www.hackerrank.com/deepakdubeygi)
-- 💻 [HackerEarth](https://www.hackerearth.com/@deep186)
+### 🎮 Real-Time Multiplayer Systems
+
+Built and contributed to backend infrastructure for real-time multiplayer games.
+
+**Areas explored:**
+
+* Raw WebSocket communication
+* Redis-backed game and session state
+* Matchmaking and player grouping
+* Game-state synchronization
+* Reconnection and failure handling
+* Stateful versus stateless service boundaries
 
 ---
 
-### 🔍 Collaboration Signals:
-- You care about **correctness, performance, and clarity**
-- You prefer **simple systems that scale**, not buzzword architecture
-- You enjoy **deep work, systems thinking, and long-term bets**
-- You want to build things that **actually survive production**
+## 💻 Technical Stack
 
-> 📬 DM me on [X](https://x.com/deeep8o) or start a GitHub discussion.
+### Languages
+
+<p>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/python.png" alt="Python"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/go.png" alt="Go"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/javascript.png" alt="JavaScript"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/typescript.png" alt="TypeScript"></code>
+</p>
+
+* Go
+* Python
+* TypeScript
+* JavaScript
+* Java
+* SQL
+
+### Backend and APIs
+
+<p>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/fastapi.png" alt="FastAPI"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/django.png" alt="Django"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/nodejs.png" alt="Node.js"></code>
+</p>
+
+* FastAPI
+* Django
+* Go `net/http`
+* REST APIs
+* WebSockets
+* Event-driven architectures
+* Background workers
+* Concurrent processing pipelines
+
+### Databases and State
+
+<p>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/postgres.png" alt="PostgreSQL"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/redis.png" alt="Redis"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/mysql.png" alt="MySQL"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/mongodb.png" alt="MongoDB"></code>
+</p>
+
+* PostgreSQL
+* Redis
+* MySQL
+* MongoDB
+* Transactions and consistency
+* Pub/sub and distributed state
+* Idempotency and retry-safe operations
+* Schema introspection and query validation
+
+### Infrastructure and DevOps
+
+<p>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/docker.png" alt="Docker"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/linux.png" alt="Linux"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/nginx.png" alt="Nginx"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/aws.png" alt="AWS"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/githubactions.png" alt="GitHub Actions"></code>
+</p>
+
+* Docker
+* Linux
+* Nginx
+* GitHub Actions
+* AWS EC2, S3, and Lambda
+* CI/CD pipelines
+* Containerized deployments
+* Structured logs and production diagnostics
+
+### Frontend and Platforms
+
+<p>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/react.png" alt="React"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/nextjs.png" alt="Next.js"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/firebase.png" alt="Firebase"></code>
+</p>
+
+* React
+* Next.js
+* Firebase Authentication
+* Supabase
+
+### AI and Developer Tooling
+
+* LangGraph and LLM orchestration
+* Structured LLM outputs
+* Tool-calling workflows
+* Provider fallback
+* Parser-based output validation
+* Human approval and verification flows
+* Stockfish engine integration
+* `ezdxf` for AutoCAD automation
 
 ---
 
-### 🛠️ Tools I Use Regularly:
+## 🧠 Engineering Interests
 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/python.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/go.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/react.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/fastapi.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/postgres.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/redis.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/docker.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/firebase.png"></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/aws.png"></code>
+* Distributed systems and failure-tolerant services
+* Backend architecture and service boundaries
+* Linux internals and long-running workloads
+* Networking, concurrency, and memory fundamentals
+* AI agents with safe and verifiable tool execution
+* Real-time synchronization and latency trade-offs
+* Simulation systems and autonomous decision loops
 
 ---
 
-### 📊 Open Source Activity
+## 🛠️ Engineering Principles
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=45264570" target="_blank" style="display: block" align="center">
+* Correctness before cleverness
+* Explicit failure handling
+* Observable systems over silent systems
+* Idempotent and retry-safe workflows
+* Simple architectures with clear ownership
+* Human verification for high-impact AI actions
+* Systems that continue behaving predictably under failure
+
+> I enjoy building systems that do not merely work in demos, but remain understandable, observable, and recoverable in production.
+
+---
+
+## 🔗 Proof of Work
+
+* 🌐 [Portfolio](https://gopalmani.github.io)
+* 🧠 [QueryMindAI](https://github.com/gopalmani/QueryMindAI)
+* ⚙️ [Hospital Bulk Processor](https://github.com/gopalmani/hospital-bulk-processor)
+* ⚔️ [LeetCode](https://leetcode.com/u/gopalmanidubey/)
+* 📝 [Technical Blog](https://gopal-blog.github.io/)
+* 𝕏 [X / Twitter](https://x.com/deeep8o)
+
+---
+
+## 📊 Open-Source Activity
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=45264570" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @appleboy" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&image_size=auto&color_scheme=dark"
+      width="771"
+      height="auto"
+    >
+    <img
+      alt="Open-source activity dashboard for gopalmani"
+      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&image_size=auto&color_scheme=light"
+      width="771"
+      height="auto"
+    >
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Made with OSS Insight -->
 
 ---
 
-### 🧘 Beyond Code:
-- Strength training & disciplined routines  
-- AutoCAD-based architectural design  
-- Philosophy, Gita studies, and systems thinking  
-- Long-form focus over short-term dopamine  
+## 🧘 Beyond Code
+
+* Strength training and disciplined routines
+* Architecture and AutoCAD-based design
+* Philosophy and Gita studies
+* Long-form technical writing
+* Systems thinking and long-term problem solving
 
 ---
+
+### 📬 Connect
+
+Reach out through [X](https://x.com/deeep8o), explore my [projects](https://github.com/gopalmani?tab=repositories), or start a GitHub discussion.
