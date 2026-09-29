@@ -2,7 +2,7 @@
 
 ### Engineer & product builder
 
-I build products—and the systems that make them work. Software engineer at **Kredivo Group**, based in Bengaluru. Outside work, I turn ideas into independent products, from personal planning and multiplayer games to religious services and AI data tools.
+I build products and the systems that make them work. Software engineer at **Kredivo Group**, based in Bengaluru. Outside work, I turn ideas into independent products, from personal planning and multiplayer games to religious services and AI data tools.
 
 [Portfolio](https://gopalmani.github.io/) · [Writing](https://gopal-blog.github.io/) · [LinkedIn](https://www.linkedin.com/in/gopal269/) · [Get in touch](mailto:gopalmanidubey@gmail.com)
 
