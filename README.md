@@ -20,28 +20,28 @@ I build products—and the systems that make them work. Software engineer at **K
 
 <sub>Daily planning · Training & study · Progress tracking · Offline support</sub>
 
-### [BrahminBooking ↗](https://brahminbooking.com/)
-
-**Trust comes before the booking.** A platform connecting people with Purohits, temples, and Hindu religious services. Built around provider onboarding, verification, Panchang, and a thoughtfully coordinated booking journey.
-
-<sub>Purohit registration · Verification workflows · Panchang · Indian languages</sub>
-
 ### [PsyPlay ↗](https://www.psyplay.io/)
 
 **Good games. Real opponents.** Online chess, Ludo, and Connect 4, with the real-time systems underneath: WebSockets, shared game state, matchmaking, and reconnection handling.
 
 <sub>Multiplayer games · Real-time communication · Redis-backed state · Game synchronization</sub>
 
-### [QueryMindAI ↗](https://github.com/gopalmani/QueryMindAI)
+### [KRIPA ↗](https://github.com/gopalmani/kripa)
 
-**Ask questions. Understand your data.** An open-source AI workspace for querying PostgreSQL in natural language. Review generated SQL and its explanation, then explicitly approve read-only execution. Validation, limits, and query history are part of the product—not afterthoughts.
+**The calculations behind the experience.** An open-source service for birth-chart and Panchang calculations, built around Swiss Ephemeris. A dedicated calculation engine that other products can call through an API.
 
-<sub>Schema-aware AI · SQL validation · Read-only execution · Human approval</sub>
+<sub>Birth charts · Panchang · Swiss Ephemeris · API service</sub>
+
+### [BrahminBooking ↗](https://brahminbooking.com/)
+
+**Trust comes before the booking.** A platform connecting people with Purohits, temples, and Hindu religious services. Built around provider onboarding, verification, Panchang, and a thoughtfully coordinated booking journey.
+
+<sub>Purohit registration · Verification workflows · Panchang · Indian languages</sub>
 
 ## More of the work
 
 - **[Astrel / AstroMatch](https://astromatch.github.io/)** — A personalized astrology experience exploring birth charts and relationship compatibility.
-- **[KRIPA](https://github.com/gopalmani/kripa)** — Open-source birth-chart and Panchang calculation service built around Swiss Ephemeris.
+- **[QueryMindAI](https://github.com/gopalmani/QueryMindAI)** — A natural-language PostgreSQL workspace with SQL validation, read-only execution, and explicit approval.
 - **[Hospital Bulk Processor](https://github.com/gopalmani/hospital-bulk-processor)** — Concurrent data processing with row-level validation, retries, progress tracking, and rollback safety.
 - **Tools & automation** — Backend integrations, Stockfish-based workflows, AutoCAD automation, and production diagnostics.
 - **[The full body of work](https://github.com/gopalmani?tab=repositories)** — More tools, experiments, and open-source work.
