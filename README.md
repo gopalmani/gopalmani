@@ -2,7 +2,7 @@
 
 ### Engineer & product builder
 
-I build products and the systems that make them work. I’m a software engineer at **Kredivo Group**, based in Bengaluru, with previous experience at **Paytm, WinZO, and Zepto**.
+I build products and the systems that make them work. I’m a software engineer at **Kredivo Group**, based in Bengaluru. Previously, I worked with **Paytm, WinZO, and Zepto**.
 
 Across **six years in the industry**, I’ve worked where product moves fast and engineering decisions matter. My focus is turning that pace into lasting value: shipping useful products, making deliberate trade-offs, and building systems that hold up in production.
 
