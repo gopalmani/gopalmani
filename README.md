@@ -1,243 +1,82 @@
-# Hey, I'm Deepak 👋
+# Deepak Dubey
 
-**Software Engineer at Kredivo Group**
-Building backend systems, automation infrastructure, distributed data pipelines, and AI-powered developer tools.
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gopalmani&label=Profile%20views&color=grey" alt="Profile views for gopalmani" />
-</p>
+### Engineer & product builder
 
-I primarily work with **Go, Python, TypeScript, PostgreSQL, Redis, Docker, Linux, and AWS**.
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" height="300" />
+I build products—and the systems that make them work. Software engineer at **Kredivo Group**, based in Bengaluru. Outside work, I turn ideas into independent products, from personal planning and multiplayer games to religious services and AI data tools.
 
----
+[Portfolio](https://gopalmani.github.io/) · [Writing](https://gopal-blog.github.io/) · [LinkedIn](https://www.linkedin.com/in/gopal269/) · [Get in touch](mailto:gopalmanidubey@gmail.com)
 
-## 🚀 What I Build
+<a href="https://gopalmani.github.io/#desk">
+  <img src="https://gopalmani.github.io/assets/studio.svg" width="100%" alt="The quiet workshop — an animated evening workspace. Open the portfolio for the live India-time clock." />
+</a>
 
-* Reliable backend services with predictable failure handling
-* Concurrent and fault-tolerant data-processing pipelines
-* AI applications with structured outputs and execution guardrails
-* Real-time systems using WebSockets and Redis-backed state
-* Developer tooling, automation infrastructure, and production diagnostics
+<sub>A quiet corner of the internet. [Open the live desk →](https://gopalmani.github.io/#desk) · The clock runs on the portfolio; GitHub displays an animated preview.</sub>
 
----
+## Products Built
 
-## 🧩 Selected Projects
+### [Dayframe ↗](https://dayframehq.github.io/)
 
-### 🧠 [QueryMindAI](https://github.com/gopalmani/QueryMindAI)
+**Give your day a frame.** A personal operating system for training, studying, and tracking progress. Daily plans, workout logs, study sessions, notes, and health context—organized around what matters today.
 
-An open-source AI data workspace for querying PostgreSQL databases using natural language.
+<sub>Daily planning · Training & study · Progress tracking · Offline support</sub>
 
-**Engineering highlights:**
+### [BrahminBooking ↗](https://brahminbooking.com/)
 
-* Bring-your-own read-only PostgreSQL connections
-* Automated schema introspection and relationship discovery
-* Structured LLM outputs with provider fallback
-* Parser-based SQL validation and table allow-lists
-* Read-only query enforcement, row limits, and statement timeouts
-* Explicit separation between SQL generation and user-approved execution
-* Dockerized FastAPI and Next.js deployment
+**Trust comes before the booking.** A platform connecting people with Purohits, temples, and Hindu religious services. Built around provider onboarding, verification, Panchang, and a thoughtfully coordinated booking journey.
 
----
+<sub>Purohit registration · Verification workflows · Panchang · Indian languages</sub>
 
-### ⚙️ [Enterprise Synchronization Layer](https://github.com/gopalmani/hospital-bulk-processor)
+### [PsyPlay ↗](https://www.psyplay.io/)
 
-A fault-tolerant bulk-processing system designed for large enterprise onboarding datasets.
+**Good games. Real opponents.** Online chess, Ludo, and Connect 4, with the real-time systems underneath: WebSockets, shared game state, matchmaking, and reconnection handling.
 
-**Engineering highlights:**
+<sub>Multiplayer games · Real-time communication · Redis-backed state · Game synchronization</sub>
 
-* Concurrent and incremental processing pipelines
-* Row-level validation and structured error reporting
-* Idempotent processing and automated retries
-* Progress tracking and resumable execution
-* Rollback handling for permanent failures
-* Deterministic tests and CI quality checks
-* Dockerized local development and cloud deployment
+### [QueryMindAI ↗](https://github.com/gopalmani/QueryMindAI)
 
----
+**Ask questions. Understand your data.** An open-source AI workspace for querying PostgreSQL in natural language. Review generated SQL and its explanation, then explicitly approve read-only execution. Validation, limits, and query history are part of the product—not afterthoughts.
 
-### 🎮 Real-Time Multiplayer Systems
+<sub>Schema-aware AI · SQL validation · Read-only execution · Human approval</sub>
 
-Built and contributed to backend infrastructure for real-time multiplayer games.
+## More of the work
 
-**Areas explored:**
+- **[Astrel / AstroMatch](https://astromatch.github.io/)** — A personalized astrology experience exploring birth charts and relationship compatibility.
+- **[KRIPA](https://github.com/gopalmani/kripa)** — Open-source birth-chart and Panchang calculation service built around Swiss Ephemeris.
+- **[Hospital Bulk Processor](https://github.com/gopalmani/hospital-bulk-processor)** — Concurrent data processing with row-level validation, retries, progress tracking, and rollback safety.
+- **Tools & automation** — Backend integrations, Stockfish-based workflows, AutoCAD automation, and production diagnostics.
+- **[The full body of work](https://github.com/gopalmani?tab=repositories)** — More tools, experiments, and open-source work.
 
-* Raw WebSocket communication
-* Redis-backed game and session state
-* Matchmaking and player grouping
-* Game-state synchronization
-* Reconnection and failure handling
-* Stateful versus stateless service boundaries
+## Skills & tools
 
----
+| Area | Toolkit |
+| :--- | :--- |
+| Languages | Go, Python, TypeScript, JavaScript, Java, SQL |
+| Interfaces & APIs | React, Next.js, FastAPI, Django, Node.js, REST, WebSockets |
+| Data & identity | PostgreSQL, MySQL, Redis, MongoDB, Firebase Auth, Supabase |
+| Infrastructure | Docker, Linux, Nginx, AWS, Oracle Cloud, GitHub Actions |
+| AI & automation | LangGraph, structured outputs, tool calling, SQL validation, provider fallback, Stockfish, AutoCAD automation |
 
-## 💻 Technical Stack
+## How I build
 
-### Languages
+Understand the person using it. Keep the architecture simple. Make failures visible. Design retries to be safe. Keep humans in control of high-impact AI actions.
 
-<p>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/python.png" alt="Python"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/go.png" alt="Go"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/javascript.png" alt="JavaScript"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/typescript.png" alt="TypeScript"></code>
-</p>
+I care about the whole product: a useful interface, clear service boundaries, and systems that remain understandable when things go wrong.
 
-* Go
-* Python
-* TypeScript
-* JavaScript
-* Java
-* SQL
+## Contributions
 
-### Backend and APIs
-
-<p>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/fastapi.png" alt="FastAPI"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/django.png" alt="Django"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/nodejs.png" alt="Node.js"></code>
-</p>
-
-* FastAPI
-* Django
-* Go `net/http`
-* REST APIs
-* WebSockets
-* Event-driven architectures
-* Background workers
-* Concurrent processing pipelines
-
-### Databases and State
-
-<p>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/postgres.png" alt="PostgreSQL"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/redis.png" alt="Redis"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/mysql.png" alt="MySQL"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/mongodb.png" alt="MongoDB"></code>
-</p>
-
-* PostgreSQL
-* Redis
-* MySQL
-* MongoDB
-* Transactions and consistency
-* Pub/sub and distributed state
-* Idempotency and retry-safe operations
-* Schema introspection and query validation
-
-### Infrastructure and DevOps
-
-<p>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/docker.png" alt="Docker"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/linux.png" alt="Linux"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/nginx.png" alt="Nginx"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/aws.png" alt="AWS"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/githubactions.png" alt="GitHub Actions"></code>
-</p>
-
-* Docker
-* Linux
-* Nginx
-* GitHub Actions
-* AWS EC2, S3, and Lambda
-* CI/CD pipelines
-* Containerized deployments
-* Structured logs and production diagnostics
-
-### Frontend and Platforms
-
-<p>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/react.png" alt="React"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/nextjs.png" alt="Next.js"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/gopalmani/GitHub_files/firebase.png" alt="Firebase"></code>
-</p>
-
-* React
-* Next.js
-* Firebase Authentication
-* Supabase
-
-### AI and Developer Tooling
-
-* LangGraph and LLM orchestration
-* Structured LLM outputs
-* Tool-calling workflows
-* Provider fallback
-* Parser-based output validation
-* Human approval and verification flows
-* Stockfish engine integration
-* `ezdxf` for AutoCAD automation
-
----
-
-## 🧠 Engineering Interests
-
-* Distributed systems and failure-tolerant services
-* Backend architecture and service boundaries
-* Linux internals and long-running workloads
-* Networking, concurrency, and memory fundamentals
-* AI agents with safe and verifiable tool execution
-* Real-time synchronization and latency trade-offs
-* Simulation systems and autonomous decision loops
-
----
-
-## 🛠️ Engineering Principles
-
-* Correctness before cleverness
-* Explicit failure handling
-* Observable systems over silent systems
-* Idempotent and retry-safe workflows
-* Simple architectures with clear ownership
-* Human verification for high-impact AI actions
-* Systems that continue behaving predictably under failure
-
-> I enjoy building systems that do not merely work in demos, but remain understandable, observable, and recoverable in production.
-
----
-
-## 🔗 Proof of Work
-
-* 🌐 [Portfolio](https://gopalmani.github.io)
-* 🧠 [QueryMindAI](https://github.com/gopalmani/QueryMindAI)
-* ⚙️ [Hospital Bulk Processor](https://github.com/gopalmani/hospital-bulk-processor)
-* ⚔️ [LeetCode](https://leetcode.com/u/gopalmanidubey/)
-* 📝 [Technical Blog](https://gopal-blog.github.io/)
-* 𝕏 [X / Twitter](https://x.com/deeep8o)
-
----
-
-## 📊 Open-Source Activity
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=45264570" target="_blank">
+<a href="https://github.com/gopalmani?tab=overview">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&image_size=auto&color_scheme=dark"
-      width="771"
-      height="auto"
-    >
-    <img
-      alt="Open-source activity dashboard for gopalmani"
-      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&image_size=auto&color_scheme=light"
-      width="771"
-      height="auto"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&amp;image_size=auto&amp;color_scheme=dark" />
+    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=45264570&amp;image_size=auto&amp;color_scheme=light" width="100%" alt="GitHub contribution activity for gopalmani. Open GitHub for the latest activity." />
   </picture>
 </a>
 
-<!-- Made with OSS Insight -->
+<sub>Activity preview by OSS Insight; it may lag behind GitHub.</sub>
 
----
+## Beyond the keyboard
 
-## 🧘 Beyond Code
+Strength training, architecture, philosophy, Gita studies, and long-form writing. The same curiosity, away from a screen.
 
-* Strength training and disciplined routines
-* Architecture and AutoCAD-based design
-* Philosophy and Gita studies
-* Long-form technical writing
-* Systems thinking and long-term problem solving
+[Writing](https://gopal-blog.github.io/) · [LeetCode](https://leetcode.com/u/gopalmanidubey/) · [X](https://x.com/deeep8o) · [Email](mailto:gopalmanidubey@gmail.com)
 
----
-
-### 📬 Connect
-
-Reach out through [X](https://x.com/deeep8o), explore my [projects](https://github.com/gopalmani?tab=repositories), or start a GitHub discussion.
+<img src="https://komarev.com/ghpvc/?username=gopalmani&amp;label=Profile%20views&amp;color=657754&amp;style=flat" alt="Profile views for gopalmani" />
